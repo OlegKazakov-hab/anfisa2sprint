@@ -133,4 +133,5 @@ dmypy.json
 
 *.sqlite
 *.sqlite3
+
 /static_dev
